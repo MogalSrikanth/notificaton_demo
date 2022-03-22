@@ -3,8 +3,6 @@ package com.example.notification_overview;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-$ git help -a | grep credential-
-        credential-foo
 public class Target_Activity extends AppCompatActivity {
 
     @Override

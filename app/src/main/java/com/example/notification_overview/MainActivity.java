@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                 //Notification Big Text Style --> we can see it when we expand notification
                 NotificationCompat.BigTextStyle bigTextStyle = new NotificationCompat.BigTextStyle();
                 bigTextStyle.setBigContentTitle("This is Big Content Title");
-                bigTextStyle.bigText("This is Big text , we can see it when we expand it");
+                bigTextStyle.bigText("This is Big text , we see it when we expand it");
                 builder.setStyle(bigTextStyle); //Pass the Notification Builder
 
                 //Notification Big Picture --> when the notification is expanded we can see the image
