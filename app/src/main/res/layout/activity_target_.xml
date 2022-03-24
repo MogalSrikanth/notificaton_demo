@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="180dp"
-        android:text="Fresh Fruits"
+        android:text="Farm Fresh Fruits"
         android:textColor="#FF5252"
         android:textSize="30sp"
         app:layout_constraintEnd_toEndOf="parent"
